@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Lancaster Tech-Home</title>
-  <link rel="stylesheet" href="style.css" type="text/css">
+  <link rel="stylesheet" href="css/style.css" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet">
 </head>
@@ -11,34 +11,18 @@
 <body>
   <header>
     <h1 class="lancaster-logo"><span class="tech">TECH</span>LANCASTER</h1>
-    <nav class="navigation">
-      <div id="menuToggle">
-        <input type="checkbox"> </input>
-        <span></span>
-        <span></span>
-        <span></span>
-        <ul id="menu">
-          <a href="index.html">
-            <li>Home</li>
-          </a>
-          <a href="#">
-            <li>Community</li>
-          </a>
-          <a href="#">
-            <li>Calendar</li>
-          </a>
-          <a href="#">
-            <li>Resources</li>
-          </a>
-        </ul>
-      </div>
-    </nav>
+    <div class="flat-navigation">
+        <div class="resources-for-meetups space"><a href="http://techlancaster.com/resources">RESOURCES FOR MEETUPS</a></div>
+        <div class="calendar space"><a href="calendar.html">CALENDAR</a></div>
+        <div class="community space"><a href="community.html">COMMUNITY</a></div>
+    </div>
   </header>
+
   <section class="title">
     <h1 class="title-text">Supporting the tech community in Lancaster.</h1>
   </section>
   <article class="body-container">
-    <section class="simple-local-meetup-container">
+    <section class="section-one-container">
         <div class="started">
           <h2>TechLancaster started as a simple local meetup, a safe place for like-minded tech people to come together and geek out.</h2>
         </div>
@@ -50,7 +34,7 @@
         </div>
       </section>
 
-    <section class="meetup-container">
+    <section class="section-two-container">
       <div class="meetup-dates">
         <h3 class="upcoming-meetup">Upcoming Meetup</h3>
         <h2 class="first-date">Central PA Linux User Group</h2>
@@ -63,10 +47,11 @@
       </div>
     </section>
   </article>
+
   <footer>
     <div class="copyright">
       <p class="twitter">@techlancaster</p>
-      <p class="copyright">&copy; 2017 TechLancaster</p>
+      <p class="copyright-logo">&copy; 2017 TechLancaster</p>
     </div>
   </footer>
 
