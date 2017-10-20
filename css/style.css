@@ -194,4 +194,216 @@ footer {
 .copyright {
   padding: 60px 100px; }
 
+.contribute {
+  padding-bottom: 20px;
+  height: 50px;
+  width: 90%;
+  margin-bottom: 30px;
+  background-color: #eb503c; }
+
+.contribute {
+  font-family: "DroidSerif";
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 3.83;
+  letter-spacing: 0.9px;
+  text-align: center;
+  color: #efe9d8; }
+
+.join-us {
+  padding-bottom: 20px;
+  height: 50px;
+  width: 90%;
+  margin-bottom: 30px;
+  background-color: #eb503c; }
+
+.join-us {
+  font-family: "DroidSerif";
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 3.83;
+  letter-spacing: 0.9px;
+  text-align: center;
+  color: #efe9d8; }
+
+.meetups {
+  height: 50%;
+  background-color: #ffc400; }
+
+.meetup-list {
+  list-style: none;
+  width: 259px;
+  height: 321px;
+  font-family: "DroidSerif";
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.71;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #4c1a14; }
+
+.meetups-container {
+  padding: 50px; }
+
+.meetups-header {
+  width: 140px;
+  height: 11px;
+  font-family: "Lato";
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #eb503c;
+  padding-bottom: 40px; }
+
+.core-values {
+  height: 300px; }
+
+.core-values-container {
+  padding-left: 20px; }
+
+.core-values-heading {
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.33;
+  letter-spacing: 1px;
+  color: #4e1c07;
+  padding-top: 40px;
+  padding-bottom: 30px; }
+
+.core-value-mini-heading {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px; }
+
+.core-values-text {
+  font-family: "DroidSerif";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c; }
+
+.tech-lanc-transparent {
+  padding-bottom: 20px; }
+
+.on-this-page {
+  width: 38%;
+  border-left: 2px solid red;
+  padding-left: 20px; }
+
+.on-this-page-header {
+  font-family: "Lato";
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #eb503c;
+  padding-bottom: 10px; }
+
+.on-this-page-listed-item {
+  font-family: "DroidSerif";
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.71;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #4c1a14; }
+
+.on-this-page-list {
+  list-style: none; }
+
+.core-purpose {
+  height: 200px;
+  background-color: #e8c99d; }
+
+.core-purpose-heading {
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.33;
+  letter-spacing: 1px;
+  color: #4e1c07;
+  padding-bottom: 20px; }
+
+.core-purpose-text {
+  font-family: "DroidSerif";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c; }
+
+.core-purpose-container {
+  padding: 30px; }
+
+.code-of-ethics {
+  height: 1100px; }
+
+.code-of-ethics-container {
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.ethics-list {
+  font-family: "DroidSerif";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c;
+  list-style: decimal;
+  padding-left: 30px; }
+
+.code-of-ethics-heading {
+  font-family: "DroidSerif";
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.33;
+  letter-spacing: 1px;
+  color: #4e1c07;
+  padding-bottom: 20px;
+  padding-top: 20px; }
+
+.lancaster-tech-expects {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: "DroidSerif";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c; }
+
+.lancaster-tech-reserves {
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.75;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.33;
+  letter-spacing: 1px;
+  color: #4e1c07; }
+
+.principles {
+  height: 150px;
+  margin-left: 20px; }
+
+.principles-header {
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.33;
+  letter-spacing: 1px;
+  color: #4e1c07; }
+
+.principles-item {
+  font-family: "DroidSerif";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c; }
+
 /*# sourceMappingURL=style.css.map */
