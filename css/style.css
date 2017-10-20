@@ -1,0 +1,197 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+* {
+  box-sizing: border-box; }
+
+header {
+  height: 20%; }
+
+body {
+  width: 100%; }
+
+.lancaster-logo {
+  background-color: #ffab00;
+  font-size: 21px;
+  text-align: left;
+  font-family: "Lato";
+  color: #064159;
+  padding: 22px 94px 21px 24px;
+  font-weight: 900; }
+
+.tech {
+  font-weight: normal;
+  color: #064159;
+  line-height: 1.29px;
+  letter-spacing: 2.1px; }
+
+.flat-navigation {
+  background-color: #ffab00;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  font-family: "Lato";
+  font-size: 12px;
+  font-weight: bold;
+  color: #72261d; }
+
+.space {
+  letter-spacing: 0.8px;
+  padding: 10px 10px 10px 10px; }
+
+.title {
+  background-image: url("../images/homepage.jpg");
+  height: 400px;
+  width: 100%; }
+
+.title-text {
+  color: white;
+  font-family: "Lato";
+  font-size: 42px;
+  font-weight: 900;
+  line-height: 1.17;
+  letter-spacing: 1.8px;
+  text-align: left;
+  color: #efe9d8;
+  width: 50%;
+  padding: 58px 49px 50px 27px; }
+
+.body-container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  top: -40px; }
+
+.section-one-container {
+  width: 45%;
+  background-color: #ffc400;
+  padding: 55px 33px 20px 27px; }
+
+.started {
+  font-family: "DroidSerif";
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.56;
+  letter-spacing: 0.9px;
+  color: #4e1c07; }
+
+.strived {
+  font-family: "DroidSerif";
+  font-size: 15px;
+  line-height: 1.6;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c;
+  margin-top: 40px; }
+
+.growth {
+  font-family: "DroidSerif";
+  font-size: 15px;
+  line-height: 1.6;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c;
+  margin-top: 20px; }
+
+.section-two-container {
+  height: 50%;
+  background-color: #ffc400;
+  padding: 120px 38px 60px 26px; }
+
+.upcoming-meetup {
+  font-family: "Lato";
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #eb503c;
+  padding-bottom: 10px; }
+
+.first-date {
+  font-family: "DroidSerif";
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.52;
+  letter-spacing: 1px;
+  color: #4c1a14; }
+
+.second-date {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.78;
+  letter-spacing: 0.9px; }
+
+.third-date {
+  font-weight: bold;
+  line-height: 2.25;
+  color: #4e1c07; }
+
+.visit-site, .rsvp {
+  font-weight: bold;
+  line-height: 2.25;
+  color: #4e1c07; }
+
+footer {
+  display: flex; }
+
+.twitter, .copyright-logo {
+  font-family: "Lato";
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #6f8998;
+  display: flex; }
+
+.copyright {
+  padding: 60px 100px; }
+
+/*# sourceMappingURL=style.css.map */
