@@ -406,4 +406,122 @@ footer {
   text-align: left;
   color: #021d2c; }
 
+.calender-hero {
+  height: 250px; }
+
+.calendar-event {
+  height: 150px;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 25px; }
+
+.event-title {
+  font-family: DroidSerif;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.52;
+  letter-spacing: 1px;
+  color: #4c1a14; }
+
+.event-date {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.78;
+  letter-spacing: 0.9px; }
+
+.event-location {
+  font-family: Lato;
+  font-size: 16px;
+  line-height: 2.0;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #021d2c; }
+
+.rsvp-calendar {
+  width: 45%;
+  display: inline-block; }
+
+.visit-site-calendar {
+  width: 45%;
+  display: inline-block; }
+
+.get-involved {
+  height: 200px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #eb503c; }
+
+.get-involved-container {
+  padding: 30px; }
+
+.get-involved-header {
+  font-family: DroidSerif;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.52;
+  letter-spacing: 1px;
+  color: #efe9d8; }
+
+.get-involved-content {
+  font-family: Lato;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #efe9d8; }
+
+.get-in-touch {
+  font-size: 16px;
+  line-height: 1.69;
+  letter-spacing: 0.8px;
+  color: #efe9d8; }
+
+.start-a-meetup {
+  height: 300px;
+  background-color: #a13729;
+  width: 100%;
+  margin: 0 auto; }
+
+.start-a-meetup-container {
+  padding: 30px; }
+
+.start-a-meetup-header {
+  font-family: DroidSerif;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.52;
+  letter-spacing: 1px;
+  color: #efe9d8;
+  padding-bottom: 5px; }
+
+.start-a-meetup-content {
+  font-family: Lato;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #efe9d8;
+  padding-bottom: 25px; }
+
+.check-it-out {
+  font-family: Lato;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #efe9d8; }
+
+.calendar-footer {
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+.nav-buttons {
+  display: none; }
+
+.nav-button {
+  display: none; }
+
+.on-this-page {
+  display: none; }
+
 /*# sourceMappingURL=style.css.map */
